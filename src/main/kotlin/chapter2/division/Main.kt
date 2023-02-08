@@ -1,4 +1,4 @@
-package chapter2
+package chapter2.division
 
 fun main() {
     val feeType: FeeType = FeeType.valueOf("ADULT")

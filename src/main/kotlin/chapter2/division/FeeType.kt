@@ -1,4 +1,4 @@
-package chapter2
+package chapter2.division
 
 enum class FeeType(
     private val fee: Fee

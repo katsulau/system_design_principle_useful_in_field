@@ -1,4 +1,4 @@
-package chapter2
+package chapter2.division
 
 class ChildFee: Fee {
     override fun yen(): Yen {
